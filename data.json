@@ -1,0 +1,83 @@
+{
+    "users": {
+        "1081642527968460831": {
+            "Gems": 1020000.0,
+            "CrashJoinAmount": 100000000,
+            "Rakeback": 0,
+            "Affiliate": null,
+            "Affiliate Earnings": 1011000.0,
+            "Deposited": 0,
+            "Withdrawn": 0,
+            "Wagered": 0,
+            "Tips Got": 0,
+            "Tips Sent": 0,
+            "Net Profit": 0
+        },
+        "1190227379583463435": {
+            "Gems": 997500000.0,
+            "CrashJoinAmount": 100000000,
+            "Rakeback": 0,
+            "Affiliate": "1081642527968460831",
+            "Affiliate Earnings": 0,
+            "Deposited": 0,
+            "Withdrawn": 0,
+            "Wagered": 3600000,
+            "Tips Got": 0,
+            "Tips Sent": 0,
+            "Net Profit": -1400000.0
+        }
+    },
+    "cases": [
+        {
+            "Name": "Template Case",
+            "Price": 2,
+            "Icon": "https://psxv.b-cdn.net/pets/update%20hype%20gift.png",
+            "Drops": [
+                {
+                    "Name": "Template Dog",
+                    "Worth": 2,
+                    "Chance": 50,
+                    "Icon": "https://psxv.b-cdn.net/pets/party%20dog.png"
+                },
+                {
+                    "Name": "Template Cat",
+                    "Worth": 2,
+                    "Chance": 50,
+                    "Icon": "https://psxv.b-cdn.net/pets/party%20pig.png"
+                }
+            ]
+        }
+    ],
+    "bets": [
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745262,
+            "bet": 1000000,
+            "winnings": 0
+        },
+        {
+            "userid": "870177313843740712",
+            "time": 1703745407,
+            "bet": 1000000,
+            "winnings": 22500000
+        },
+        {
+            "userid": "870177313843740712",
+            "time": 1703745431,
+            "bet": 22000000,
+            "winnings": 495000000
+        },
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745466,
+            "bet": 1000000,
+            "winnings": 0
+        },
+        {
+            "userid": "1161699592786694357",
+            "time": 1703745478,
+            "bet": 1000000,
+            "winnings": 0
+        }
+    ]
+}
